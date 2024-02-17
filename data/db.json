@@ -1,3 +1,10 @@
 {
-  "blogs": []
+  "blogs": [
+    {
+      "id": "afad",
+      "title": "My life",
+      "body": "My name is Dennis",
+      "author": "Dennis"
+    }
+  ]
 }
